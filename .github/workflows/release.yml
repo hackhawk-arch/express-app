@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/express-app:latest
+          tags: byte549/express-app:latest
